@@ -1,2 +1,6 @@
 hyperactive
 plotly
+scipy
+sklearn
+tensorflow
+keras
