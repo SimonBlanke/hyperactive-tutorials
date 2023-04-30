@@ -1,5 +1,12 @@
-# Hyperactive Tutorials
-Tutorials, examples and website for Hyperactive package
+<H1 align="center">
+    Hyperactive Tutorials
+</H1>
+
+<br>
+
+<H2 align="center">
+    Examples, notebooks and visualizations for the Hyperactive package
+</H2>
 
 <br>
 
